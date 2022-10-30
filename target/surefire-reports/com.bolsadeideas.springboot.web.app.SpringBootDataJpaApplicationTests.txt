@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.bolsadeideas.springboot.web.app.SpringBootDataJpaApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.834 s <<< FAILURE! - in com.bolsadeideas.springboot.web.app.SpringBootDataJpaApplicationTests
+com.bolsadeideas.springboot.web.app.SpringBootDataJpaApplicationTests  Time elapsed: 0.831 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+
